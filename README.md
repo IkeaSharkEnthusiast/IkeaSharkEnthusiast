@@ -1,4 +1,4 @@
-# hi, i'm lucy luna :3
+## hi, i'm lucy luna :3
 a dumb catgirl thats interested in malware, iot exploitation and some other stuff<br><br>
 
 ## languages
