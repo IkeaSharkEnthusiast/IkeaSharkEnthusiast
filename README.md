@@ -1,4 +1,6 @@
-## Hi there 👋
+## hi, i'm lucy luna :3
+a dum catgirl interested in malware, IoT exploitation and some other stuff.<br>
+i'm fluent in java, kotlin & go. currently learning C though :3
 
 <!--
 **IkeaSharkEnthusiast/IkeaSharkEnthusiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
